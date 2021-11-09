@@ -355,9 +355,8 @@ header .navbar ul li a:hover{
 }
 
 .spread .image{
-    height: 80vh;
+    height: 10vh;
     width:100%;
-    background:url(../images/map.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
