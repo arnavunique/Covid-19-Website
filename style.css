@@ -355,7 +355,7 @@ header .navbar ul li a:hover{
 }
 
 .spread .image{
-    height: 10vh;
+    height: 10rx;
     width:100%;
     background-size: cover;
     background-position: center;
